@@ -24,7 +24,7 @@ import kotlinx.coroutines.withContext
  * Course Code: MAD302-01 Android Development
  * Name: Nithin Amin
  * Student ID: A00194322
- * Date of Submission: 2026
+ * Date of Submission: April 2026
  * Description:
  * Smart Utility App demonstrates async operations using coroutines,
  * location permission handling, robust error handling, input validation,
